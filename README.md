@@ -51,7 +51,7 @@ sudo systemctl restart nginx
 
 
 cd /var/www/html/git
-sudo mkdir hitesh.git
+sudo mkdir YOUR_REPO_NAME.git
 sudo git --bare init
 sudo git update-server-info
 sudo chown -R www-data.www-data .
@@ -63,6 +63,8 @@ https://www.howtoforge.com/tutorial/install-http-git-server-with-nginx-on-ubuntu
 ## git lfs server
 ### user Nexus OSS 3
 https://cloud.tencent.com/developer/article/1010590
+
+ALERT: Use firefox to open Nexus is better then use chrome
 
 ### install git lfs
 ```
