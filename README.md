@@ -73,3 +73,12 @@ sudo apt-get install git-lfs
 git lfs install --skip-smudge
 ```
 https://github.com/git-lfs/git-lfs/wiki/Installation
+
+### new lfs repo setup
+https://github.com/git-lfs/git-lfs/wiki/Tutorial
+
+```
+# .lfsconfig
+[lfs]
+    url = "http://OSS3_USER:OSS3_PASSWORD@SERVER:HOST/repository/gitlfs-hosted/info/lfs"
+```
