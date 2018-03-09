@@ -16,7 +16,7 @@ ufw allow 80
 
 ## git http
 
-- [ ] todo: use https is safer
+- skip this if you host reop on github/..
 ```
 sudo apt-get update -y
 sudo apt-get upgrade -y
