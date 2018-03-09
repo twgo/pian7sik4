@@ -62,7 +62,10 @@ https://www.howtoforge.com/tutorial/install-http-git-server-with-nginx-on-ubuntu
 
 ## git lfs server
 ### user Nexus OSS 3
-https://cloud.tencent.com/developer/article/1010590
+intro  
+https://cloud.tencent.com/developer/article/1010590 . 
+launch by docker . 
+https://github.com/sonatype/docker-nexus3 . 
 
 ALERT: Use firefox to open Nexus is better then use chrome
 
